@@ -11,3 +11,7 @@ The purpose of semantic elements is to help structure the code, making it more r
 As for the CSS, I consolidated the styling to make it more readable. I also rearranged the styling so that it matches the flow of the HTML.
 
 Deployed Project: https://eroux13.github.io/horiseon_code_refactor/
+
+## Horiseon
+
+![Horiseon Webpage Screenshot](./assets/images/horiseonScreenshot.png)
