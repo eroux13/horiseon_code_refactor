@@ -10,6 +10,10 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+p {
+    font-size: 16px;
+}
+
 /*Header and Nav Bar Styling*/
 header {
     padding: 20px;
@@ -44,10 +48,6 @@ header nav ul li a {
     text-decoration: none;
 }
 /*Header and Nav Bar Styling End*/
-
-p {
-    font-size: 16px;
-}
 
 /*Hero/Main Image*/
 .hero {
@@ -135,9 +135,4 @@ footer h2 {
 }
 /* Footer End */
 
-/* A screen with 600px this will take effect */
-@media only screen and (max-width: 1000px){
-    .header div{
-        font-size: 10px;
-    }
 }
