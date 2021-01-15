@@ -1,6 +1,6 @@
 # Horiseon Code Refactor
-![HTML](https://img.shields.io/badge/HTML-65%25-red)
-![CSS](https://img.shields.io/badge/CSS-35%25-purple)
+![HTML](https://img.shields.io/badge/HTML-67.5%25-red)
+![CSS](https://img.shields.io/badge/CSS-32.5%25-purple)
 
 ## Description
 
